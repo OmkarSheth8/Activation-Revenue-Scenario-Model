@@ -1,5 +1,9 @@
 # Activation Revenue Scenario Model
 
+**[Live app →](https://omkarsheth8-activ-prototypeprovider-match-trust-panelapp-5qfhst.streamlit.app/)**
+&nbsp;&nbsp;|&nbsp;&nbsp;
+**[Excel model →](https://docs.google.com/spreadsheets/d/1xmVXqEkXylYkrhmxIgWt_Gx_yoVZuRyF/edit?usp=sharing&ouid=107052654186129163053&rtpof=true&sd=true)**
+
 ## What this is
 
 A one-scroll Streamlit dashboard that turns the Excel activation revenue model into an interactive scenario tool.

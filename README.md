@@ -2,6 +2,13 @@
 
 This project analyzes a public-facing healthcare growth and operations workflow, focusing on the intake-to-activation journey.
 
+## Live links
+
+| | |
+|---|---|
+| **Interactive scenario model** | [Open Streamlit app](https://omkarsheth8-activ-prototypeprovider-match-trust-panelapp-5qfhst.streamlit.app/) |
+| **Excel model** | [Open in Google Sheets](https://docs.google.com/spreadsheets/d/1xmVXqEkXylYkrhmxIgWt_Gx_yoVZuRyF/edit?usp=sharing&ouid=107052654186129163053&rtpof=true&sd=true) |
+
 ## Project Focus
 
 The working focus is the intake-to-activation funnel: how a prospective patient moves from initial interest to completing intake and reaching the first visit.
